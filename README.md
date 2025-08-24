@@ -1,17 +1,6 @@
 # Qualidade_MRI_Bobinas_IC
 Este projeto teve como principal objetivo o desenvolvimento de um pipeline em Python para a avaliação da qualidade de imagens de ressonância magnética (RM).  Um dos principais benefícios do trabalho padronização da análise e redução das medições manuais.
 
-\documentclass[a4paper,11pt]{article}
-\input{cabecalho}
-\bibliographystyle{plain}
-\usepackage{pdfpages}
-
-\begin{document}
-
-%Remove numeração da página atual
-\thispagestyle{empty}
-
-% Como fazer um cabeçalho passo a passo com tabular: https://www.youtube.com/watch?v=NEvF9mJwOXI&list=PLF6ZF9NW0WmqUAgtkYlQmCDHP6H_bYwGk&index=3
 
 \begin{tabular}[l]{ll}
 \multirow{5}*{\includegraphics[width=50pt]{logo.png}} & 
