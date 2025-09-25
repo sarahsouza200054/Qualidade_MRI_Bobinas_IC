@@ -88,8 +88,6 @@ display(df_resultados)
 
 Use a função `pipeline_completo_mult`.
 
-> **Nota**: A versão atual da função `pipeline_completo_mult` no script parece estar adaptada para usar apenas um conjunto de imagens. Ajuste conforme necessário para o método de subtração de duas imagens, se aplicável.
-
 ```python
 # Defina os caminhos para seus arquivos
 imagem_path_mult = "/content/drive/MyDrive/seu_caminho/Image_Phantom_multicanal.nii"
