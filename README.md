@@ -59,7 +59,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 ```
 
-## kullanım
+##
 
 Para executar a análise, utilize as funções principais `pipeline_completo_single` ou `pipeline_completo_mult`.
 
