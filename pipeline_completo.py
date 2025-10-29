@@ -8,7 +8,7 @@ Original file is located at
 
 #Este colab tem como objetivo realizar a refatoração do código referênte à qualidade de imagens realizadas com bobinas de ressonância utilizando um fantoma sintético.
 """
-'''
+
 from google.colab import drive
 import nibabel as nib
 drive.mount('/content/drive')
@@ -49,7 +49,7 @@ from scipy import stats
 import seaborn as sns
 import pandas as pd
 from scipy.stats import rayleigh
-'''
+
 #-------------------------------------------------------------------------------
 #FUNÇÃO QUE REMOVE OUTLIERS DOS DADOS
 #-------------------------------------------------------------------------------
