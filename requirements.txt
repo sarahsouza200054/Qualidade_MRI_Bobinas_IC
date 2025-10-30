@@ -5,9 +5,10 @@ numpy
 scipy
 scikit-image  # Para as funções da 'skimage'
 matplotlib
-opencv-python # O nome do pacote para 'cv2'
+opencv-python-headless # O nome do pacote para 'cv2'
 IPython       # Para o 'from IPython.display import Video'
 Pillow        # Para o 'from PIL import Image'
 seaborn
 pandas
+
 
